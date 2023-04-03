@@ -1,0 +1,10 @@
+title: 17th Annual International Biocuration Conference
+# email: biocuration2023@gmail.com
+
+theme: minima
+github_username: biocuration2024
+# twitter_username: biocuration2024
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
